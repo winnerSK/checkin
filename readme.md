@@ -1,4 +1,4 @@
-# Checkin
+# CheckinSK
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
@@ -6,7 +6,7 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
 ## 使用说明
 
-1. Fork 这个仓库test
+1. Fork 这个仓库
 
 1. 登录 [GLaDOS][glados] 获取 Cookie
 
